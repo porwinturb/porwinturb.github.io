@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://porwinturb.wbuyy.com/porwinturb.txt
